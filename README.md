@@ -1,1 +1,1 @@
-the first project of freecodecap
+the first project of freecodecamp
